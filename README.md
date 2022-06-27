@@ -13,3 +13,5 @@ $ gdb src/demo.elf
 (gdb) load
 (gdb) c
 ```
+
+Currently requires UART3 to be initialized first because I haven't written the UART initialization code.
