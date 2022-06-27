@@ -1,0 +1,7 @@
+.vscode/
+.direnv/
+
+*.o
+*.d
+*.elf
+*.bin
